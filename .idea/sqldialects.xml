@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/offline_sql/HiveSQL/ods/ods_activity_info_full.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/offline_sql/HiveSQL/ods/ods_activity_rule_full.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/offline_sql/HiveSQL/ods/ods_base_category1_full.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/offline_sql/HiveSQL/ods/ods_base_category2_full.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/offline_sql/HiveSQL/ods/ods_base_category3_full.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/offline_sql/HiveSQL/ods/ods_base_dic_full.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/offline_sql/HiveSQL/ods/ods_base_province_full.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/offline_sql/HiveSQL/ods/ods_base_region_full.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/offline_sql/HiveSQL/ods/ods_base_trademark_full.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/offline_sql/HiveSQL/ods/ods_cart_info_full.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/offline_sql/HiveSQL/ods/ods_coupon_info_full.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/offline_sql/HiveSQL/ods/ods_sku_attr_value_full.sql" dialect="GenericSQL" />
+  </component>
+</project>
