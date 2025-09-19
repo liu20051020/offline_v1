@@ -1,4 +1,4 @@
-create database gmall;
+
 
 DROP TABLE IF EXISTS ods_activity_info_full;
 CREATE EXTERNAL TABLE ods_activity_info_full
